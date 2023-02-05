@@ -1,0 +1,18 @@
+{
+   "version": "0.2.0",
+   "configurations": [
+      {
+         "type": "node",
+         "request": "launch",
+         "name": "Suite",
+         "cwd": "${workspaceFolder}",
+         "autoAttachChildProcesses": true,
+         "program": "${workspaceRoot}/node_modules/@wdio/cli/bin/wdio.js",
+         "args": [
+            "./wdio.conf.js",
+            "--spec=./specs/example.e2e.js"
+         ],
+        
+      }
+   ]
+}
