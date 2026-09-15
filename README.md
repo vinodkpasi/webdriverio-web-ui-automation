@@ -1,4 +1,4 @@
-# 🚀 WebdriverIO Web UI Automation Framework (JavaScript + Mocha)
+# 🚀 WebdriverIO Web UI Automation Framework (JavaScript + Mocha + Allure)
 
 A scalable **Web UI Test Automation Framework** built using **WebdriverIO**, **JavaScript**, **Mocha**, and the **Page Object Model (POM)** design pattern.
 
